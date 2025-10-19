@@ -100,7 +100,7 @@ function validateForm(){
         console.log("Invalid zip code");
     }
     else{
-         message = "Welcome," + firstName + ". The Secret word is validation.";
+         message = "Welcome, " + firstName + ". The Secret word is validation.";
     }
     
     // display message to the user on the div in the HTML section
